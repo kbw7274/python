@@ -4,4 +4,5 @@
 종합 계산기입니다
 
 자세한 내용은
-[ 1인 개발자를 꿈꾸는 서울 꺼벙 천사 ]([ https://blog.naver.com/pro0318](https://blog.naver.com/pro0318/223773677335))
+[ 1인 개발자를 꿈꾸는 서울 꺼벙 천사 ](https://blog.naver.com/pro0318/223773677335)
+블로그에 있습니다
